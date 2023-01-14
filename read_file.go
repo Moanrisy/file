@@ -1,4 +1,4 @@
-package go-file
+package file
 
 import (
 	"bufio"
