@@ -1,3 +1,3 @@
-module github.com/moanrisy/go_file
+module github.com/moanrisy/file
 
 go 1.19
